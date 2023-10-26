@@ -1,4 +1,4 @@
-# **Basic Client Examples to demonstrate Outbound Calls and put the user call to video room using Enablex Voice APIs. **
+# Outbound Calls with Transition to Video Room: Using EnableX Programmable Voice APIs
 This example contains instructions how users can initiate Outbound Calls and put the user call into video room based on the room id.
 
 
